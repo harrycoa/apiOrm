@@ -1,0 +1,17 @@
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\bin\Debug\netstandard2.0\Common.Services.deps.json
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\bin\Debug\netstandard2.0\Common.Services.dll
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\bin\Debug\netstandard2.0\Common.Services.pdb
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\bin\Debug\netstandard2.0\Common.DTO.dll
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\bin\Debug\netstandard2.0\Common.Entities.dll
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\bin\Debug\netstandard2.0\Common.Services.Infrastructure.dll
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\bin\Debug\netstandard2.0\Common.Utils.dll
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\bin\Debug\netstandard2.0\Common.Services.Infrastructure.pdb
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\bin\Debug\netstandard2.0\Common.Utils.pdb
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\bin\Debug\netstandard2.0\Common.DTO.pdb
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\bin\Debug\netstandard2.0\Common.Entities.pdb
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\obj\Debug\netstandard2.0\Common.Services.csprojResolveAssemblyReference.cache
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\obj\Debug\netstandard2.0\Common.Services.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\obj\Debug\netstandard2.0\Common.Services.AssemblyInfoInputs.cache
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\obj\Debug\netstandard2.0\Common.Services.AssemblyInfo.cs
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\obj\Debug\netstandard2.0\Common.Services.dll
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Services\obj\Debug\netstandard2.0\Common.Services.pdb

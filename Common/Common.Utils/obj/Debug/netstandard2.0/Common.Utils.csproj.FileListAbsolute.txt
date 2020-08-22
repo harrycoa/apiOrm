@@ -1,0 +1,11 @@
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Utils\bin\Debug\netstandard2.0\Common.Utils.deps.json
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Utils\bin\Debug\netstandard2.0\Common.Utils.dll
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Utils\bin\Debug\netstandard2.0\Common.Utils.pdb
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Utils\bin\Debug\netstandard2.0\Common.Entities.dll
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Utils\bin\Debug\netstandard2.0\Common.Entities.pdb
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.csprojResolveAssemblyReference.cache
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.AssemblyInfoInputs.cache
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.AssemblyInfo.cs
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.dll
+C:\Users\Harry\Downloads\netcore-starter\backend\src\Common\Common.Utils\obj\Debug\netstandard2.0\Common.Utils.pdb
